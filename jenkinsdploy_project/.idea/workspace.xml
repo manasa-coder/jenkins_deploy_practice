@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3390b3d4-f58f-455b-ad87-8ed9cb92080c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/srcipt/archetype.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jar/app/contract/student/logic/StudentContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jar/app/contract/student/logic/StudentContract.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="233" column="12" selection-start-line="233" selection-start-column="12" selection-end-line="233" selection-end-column="12" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/srcipt/archetype.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hyperlist</find>
+      <find>Transaction tx</find>
+      <find>JVM</find>
+      <find>applic</find>
+      <find>deploy succ</find>
+      <find>p</find>
+      <find>122.152.218.100:8081</find>
+      <find>派案</find>
+      <find>getCompeteAssetIds</find>
+      <find>chenquan</find>
+      <find>KV</find>
+      <find>KVData</find>
+      <find>collection</find>
+      <find>javasdk</find>
+      <find>archetype_version</find>
+      <find>package.na</find>
+      <find>cn.hyperchain.app</find>
+      <find>${</find>
+      <find>${pack</find>
+      <find>system</find>
+      <find>hvm</find>
+      <find>boot</find>
+      <find>sdk</find>
+      <find>system.ou</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>localhost</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/src/main</dir>
+      <dir>$PROJECT_DIR$/src/main/java/jar/app</dir>
+    </dirStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="2a900cfd036b58bf377cce66ac7fbac6ae64612c" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="data" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/base/exceptions/QueryDataException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/base/exceptions/ParamErrorException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/base/exceptions/InvokeException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/base/exceptions/DeployException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/aop/UserAspect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/base/listener/ContractInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/logic/entity/StudentResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/invoke/InvokeRegisterStudent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/invoke/InvokeChangeStudent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/invoke/InvokeGetStudent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/logic/IStudent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/invoke/InvokeGetStudents.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/invoke/InvokeIsContains.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/dao/StudentContractDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/dao/impl/StudentContractDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/service/impl/ContractServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/service/StudentService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/service/impl/StudentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/logic/StudentContract.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/swagger/Swagger2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/controller/StudentAPIController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/repository/ContractRepository.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/util/ContractUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-prd.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/assertContract/logic/bean/AssetPackInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/assertContract/logic/AssertResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/assertContract/logic/bean/WcsRptWW008Info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/assertContract/logic/AssertContractInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/assertContract/logic/AssertContract.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/assertContract/logic/bean/CommissionInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/student/invoke/InvokeRegisterStudent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/student/logic/IStudent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/student/logic/Utils2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/student/logic/Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/student/logic/StudentContract.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/student/logic/entity/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/hpc.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/jar/app/swagger/Swagger2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jar/app/dao/impl/StudentContractDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jar/app/aop/UserAspect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jar/app/contract/student/logic/entity/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jar/app/service/impl/ContractServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jar/app/service/ContractService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jar/app/dao/StudentContractDao.java" />
+        <option value="$PROJECT_DIR$/.gitlab-ci.yml" />
+        <option value="$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/src/main/java/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/src/main/java/jar/app/contract/student/logic/StudentContract.java" />
+        <option value="$PROJECT_DIR$/srcipt/archetype.sh" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-1920" />
+    <option name="y" value="-82" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jenkinsdploy_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jenkinsdploy_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552029838649" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.hyperchain.app.contract.student.logic" />
+      <recent name="cn.hyperchain.app.contract.invoke" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/assertContract/logic/bean" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MainApplication">
+    <configuration name="StudentContract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hyperchain.app.contract.student.logic.StudentContract" />
+      <module name="jenkinsdploy_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.hyperchain.app.contract.student.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContractServiceImpl.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jenkinsdploy_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.hyperchain.app.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.hyperchain.app.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="cn.hyperchain.app.service.impl.ContractServiceImpl" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContractServiceImpl.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jenkinsdploy_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.hyperchain.app.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.hyperchain.app.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="cn.hyperchain.app.service.impl.ContractServiceImpl" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="jenkinsdploy_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jar.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="jar.app.MainApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="compile" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StudentContract" />
+      <item itemvalue="JUnit.ContractServiceImpl.test1" />
+      <item itemvalue="JUnit.ContractServiceImpl.test2" />
+      <item itemvalue="Spring Boot.MainApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MainApplication" />
+        <item itemvalue="JUnit.ContractServiceImpl.test2" />
+        <item itemvalue="JUnit.ContractServiceImpl.test1" />
+        <item itemvalue="Application.StudentContract" />
+        <item itemvalue="JUnit.ContractServiceImpl.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3390b3d4-f58f-455b-ad87-8ed9cb92080c" name="Default Changelist" comment="" />
+      <created>1541828518249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541828518249</updated>
+      <workItem from="1541828519893" duration="2129000" />
+      <workItem from="1543372843244" duration="6874000" />
+      <workItem from="1544064715682" duration="381000" />
+      <workItem from="1544539502871" duration="18728000" />
+      <workItem from="1544946064978" duration="10187000" />
+      <workItem from="1545016129472" duration="4962000" />
+      <workItem from="1545195614806" duration="691000" />
+      <workItem from="1545196400890" duration="16689000" />
+      <workItem from="1545621625498" duration="16113000" />
+      <workItem from="1546940796214" duration="1489000" />
+      <workItem from="1547004107487" duration="41783000" />
+      <workItem from="1547470968289" duration="10386000" />
+      <workItem from="1547626710710" duration="24000" />
+      <workItem from="1547627248510" duration="21000" />
+      <workItem from="1550569489226" duration="1825000" />
+      <workItem from="1550641197694" duration="88000" />
+      <workItem from="1550641555508" duration="80000" />
+      <workItem from="1550719699367" duration="164000" />
+      <workItem from="1550835995487" duration="11835000" />
+      <workItem from="1551242071423" duration="6000" />
+      <workItem from="1551242301074" duration="2440000" />
+      <workItem from="1551248789258" duration="1661000" />
+      <workItem from="1551427308329" duration="1902000" />
+      <workItem from="1551683573898" duration="7510000" />
+      <workItem from="1551861116430" duration="60000" />
+      <workItem from="1552027391940" duration="1968000" />
+      <workItem from="1552378476928" duration="83000" />
+    </task>
+    <task id="LOCAL-00001" summary="add hyperlist test">
+      <created>1545791650112</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545791650112</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat(archetype): archetype code">
+      <created>1547120011946</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547120011946</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix(ci): fix ci">
+      <created>1547120879120</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547120879120</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix(ci): fix ci">
+      <created>1547121702193</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1547121702193</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix(ci): fix ci">
+      <created>1547122676557</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1547122676557</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix(ci): fix ci">
+      <created>1547125636201</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1547125636201</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix(ci): fix ci">
+      <created>1547126393948</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1547126393948</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix(ci): fix ci">
+      <created>1547175406464</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1547175406464</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix(ci): fix ci">
+      <created>1547176043086</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1547176043086</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix(ci): fix ci">
+      <created>1547177313935</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1547177313935</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix(contract): add more contract">
+      <created>1547210633672</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1547210633672</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix(ci): fix ci">
+      <created>1547212339735</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1547212339735</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat(assertContract): init assertContract">
+      <created>1547465919934</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1547465919934</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat(assertContract): add contract interface">
+      <created>1547470910674</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1547470910674</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fix package name">
+      <created>1551691017831</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1551691017831</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ContractServiceImpl_test1 - 2018.12.21 at 17h 13m 12s.xml">
+      <configuration name="ContractServiceImpl.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContractServiceImpl_test2 - 2018.12.21 at 17h 16m 34s.xml">
+      <configuration name="ContractServiceImpl.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContractServiceImpl_test2 - 2018.12.21 at 17h 58m 53s.xml">
+      <configuration name="ContractServiceImpl.test2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="160079000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1920" y="-82" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21352503" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32928064" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5106383" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946752" visible="true" weight="0.3941236" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005325" side_tool="true" weight="0.45491388" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.49037486" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.4366768" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" id="Maven" order="11" weight="0.20500532" />
+      <window_info anchor="right" id="Structure" order="12" weight="0.17039403" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add hyperlist test" />
+    <MESSAGE value="feat(archetype): archetype code" />
+    <MESSAGE value="fix(contract): add more contract" />
+    <MESSAGE value="fix(ci): fix ci" />
+    <MESSAGE value="feat(assertContract): init assertContract" />
+    <MESSAGE value="feat(assertContract): add contract interface" />
+    <MESSAGE value="fix package name" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix package name" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/jar/app/controller/StudentAPIController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hyperchain/app/contract/logic/entity/KVData.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/jar/app/base/listener/ContractInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="29" column="93" selection-start-line="29" selection-start-column="93" selection-end-line="29" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jar/app/repository/ContractRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1515">
+          <caret line="110" column="18" selection-start-line="110" selection-start-column="18" selection-end-line="110" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jar/app/util/ContractUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jar/app/dao/impl/StudentContractDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jar/app/service/impl/ContractServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/src/main/java/app/dao/StudentContractDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/src/main/java/cn/hyperchain/app/contract/student/logic/StudentContract.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/jar/app/base/constant/Code.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/src/main/java/cn/hyperchain/app/controller/ContractAPIController.java" />
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/src/main/java/cn/hyperchain/app/util/ContractUtil.java" />
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/src/main/java/cn/hyperchain/app/dao/StudentContractDao.java" />
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/src/main/java/cn/hyperchain/app/MainApplication.java" />
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/src/main/java/app/MainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hpc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jar/app/aop/UserAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="21" column="72" selection-start-line="21" selection-start-column="72" selection-end-line="21" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jar/app/swagger/Swagger2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-prd.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/src/main/java/app/controller/StudentAPIController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/src/main/java/app/swagger/Swagger2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/src/main/java/app/contract/student/logic/StudentContract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/target/classes/archetype-resources/src/main/java/app/base/listener/ContractIniter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/src/main/java/app/base/listener/ContractIniter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="45" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jar/app/service/ContractService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jar/app/MainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="152" column="59" selection-start-line="152" selection-start-column="59" selection-end-line="152" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/contract.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/test/resources/projects/basic/goal.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/test/resources/projects/basic/archetype.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/src/main/java/app/contract/student/logic/IStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/src/main/resources/application-prd.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/src/main/resources/hpc.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/src/main/resources/contract.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/archetype/src/main/resources/archetype-resources/src/main/java/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="42" lean-forward="true" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/cn/hyperchain/hvm-sdk/1.0.2/hvm-sdk-1.0.2.jar!/cn/hyperchain/contract/BaseContract.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="69" column="36" lean-forward="true" selection-start-line="69" selection-start-column="36" selection-end-line="69" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jar/app/contract/student/invoke/InvokeRegisterStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jar/app/contract/student/logic/StudentContract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="42" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2348#2349#0" expanded="true" />
+            <element signature="e#2391#2392#0" expanded="true" />
+            <element signature="e#2350#2351#0" expanded="true" />
+            <element signature="e#2412#2413#0" expanded="true" />
+            <element signature="e#2459#2460#0" expanded="true" />
+            <element signature="e#2520#2521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jar/app/contract/student/logic/IStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="233" column="12" selection-start-line="233" selection-start-column="12" selection-end-line="233" selection-end-column="12" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/srcipt/archetype.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Bundled Protobuf Distribution</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jenkinsdploy_project</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

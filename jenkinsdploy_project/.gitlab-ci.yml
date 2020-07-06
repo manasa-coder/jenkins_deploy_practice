@@ -1,0 +1,35 @@
+variables:
+  archetype_version: 1.0.0 #TODO fix version
+
+stages:
+  - test
+  - archetype
+
+maven-test:
+  image: docker:5000/hyperchain/maven
+  stage: test
+  script:
+    - "echo '172.16.4.1 maven.internal.hyperchain.cn' >> /etc/hosts"
+    - "echo '172.16.4.1 cn0' >> /etc/hosts"
+    - "mvn clean test --settings ~/maven/settings.xml"
+    - "cat target/site/jacoco/index.html"
+  only:
+    - master
+
+maven-archetype:
+  image: docker:5000/hyperchain/maven
+  stage: archetype
+  script:
+    - "echo '172.16.4.1 maven.internal.hyperchain.cn' >> /etc/hosts"
+    - "echo '172.16.4.1 cn0' >> /etc/hosts"
+    - "mvn archetype:create-from-project"
+    - "cd target/generated-sources/archetype/src/main/resources/archetype-resources"
+    - "pwd"
+    - "rm -f .gitlab-ci.yml"
+    - "cd src"
+    - "cd ../../../../../"
+    - "pwd"
+    - "mvn install"
+    - mvn deploy:deploy-file  -DgroupId=cn.hyperchain -DartifactId=hvmbasic-archetype -Dversion=${archetype_version} -Dpackaging=jar -Dfile=./target/hvmbasic-archetype-${archetype_version}.jar -Durl=http://cn0:8081/repository/maven-releases/ -DrepositoryId=maven-releases --settings ~/maven/settings.xml
+  only:
+    - master-archetype
